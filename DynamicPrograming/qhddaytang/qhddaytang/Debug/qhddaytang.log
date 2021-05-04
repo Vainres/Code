@@ -1,0 +1,5 @@
+﻿  qhddaytang.cpp
+C:\Users\nhan6\source\repos\qhddaytang\qhddaytang\qhddaytang.cpp(17,19): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nhan6\source\repos\qhddaytang\qhddaytang\qhddaytang.cpp(21,19): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nhan6\source\repos\qhddaytang\qhddaytang\qhddaytang.cpp(32,19): warning C4018: '<': signed/unsigned mismatch
+  qhddaytang.vcxproj -> C:\Users\nhan6\source\repos\qhddaytang\Debug\qhddaytang.exe
